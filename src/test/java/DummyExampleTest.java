@@ -6,7 +6,7 @@ public class DummyExampleTest {
 
     @Test
     void demoTestMethod() {
-        System.out.printf("This is a dummy test");
+        System.out.println("This is a dummy test");
         assertTrue(true);
     }
 }
